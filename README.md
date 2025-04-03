@@ -36,7 +36,6 @@ We’re building the **go-to discovery app** for the global remote work generati
 | Backend      | Firebase (Firestore + Auth)    |
 | AI Engine    | LLaMA 3.3:70B via Ollama       |
 | Review Parser| Python scripts (CSV → JSON)    |
-| Hosting      | Firebase Hosting (upcoming)    |
 
 ---
 
